@@ -2,16 +2,16 @@ const phrases = [
     `hi guys`,
     `cheese`,
     `dont type this on your keyboard: up, up, down, down, left, right, left, right, B, A, enter`,
-    `emerity said you should watch bleach`,
+    `artin is daddy`,
     `im going to put bleach in your eyes`,
-    `shoutout to @literalaj on yt`,
+    `landon wever is a femboy`,
     `im in your walls`,
-    `"play the strongest battlegrounds" - literalaj`,
+    `"play valorent`,
     /*{ other: 'loop', width: '200px', type: "video", src: `https://media.tenor.com/SIpmtvnEsDIAAAPo/rotating-chips.mp4` },*/
-    `jackson is batman`,
-    `jacob is the WORST violin. Make sure to bully him (8th grade violin, probably 400 pounds tbh)`,
+    `artin is batman`,
+    `artin is the best mc player and best at blowing stuff up`,
     /*{ type: "image", width: '400px', src: `https://c.tenor.com/9MVlipGuNioAAAAC/tenor.gif` },*/
-    `"im the best kahoot player" - Jay C`,
+    `"im the best kahoot player" - artin R`,
 ];
 
 const paragraph = document.getElementById('dynamicParagraph');
